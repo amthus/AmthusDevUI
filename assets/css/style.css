@@ -150,6 +150,8 @@ html { font-family: var(--ff-poppins); }
 
 body { background: var(--smoky-black); }
 
+span1{ color: var(--vegas-gold);}
+
 
 
 
@@ -345,6 +347,16 @@ main {
   width: max-content;
   padding: 3px 12px;
   border-radius: 8px;
+}
+
+.info-content1 .title1 {
+  color: var(--white-1);
+  background: var(--onyx);
+  font-size: var(--fs-8);
+  font-weight: var(--fw-300);
+  border-radius: 8px;
+  justify-content: center;
+  text-align: center;
 }
 
 .info_more-btn {
